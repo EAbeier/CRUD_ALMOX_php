@@ -2,7 +2,7 @@
 Criando um CRUD de estoque
 
 
-#Index html
+# Index html
 Onde foi definido os links para:
 - Produtos
     - onde será a consulta, cadastro e remoção dos itens. 
